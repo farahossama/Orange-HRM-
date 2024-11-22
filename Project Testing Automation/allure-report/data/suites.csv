@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1852","negativeLogin","Default Suite","Wed Oct 23 18:47:05 EEST 2024","passed","Wed Oct 23 18:47:07 EEST 2024","Testing","Project Testing Automation (2)","Testing","negativeLogin"
+"","4806","assignLeave","Default Suite","Wed Oct 23 18:46:59 EEST 2024","passed","Wed Oct 23 18:47:04 EEST 2024","Testing","Project Testing Automation (2)","Testing","assignLeave"
+"","1930","leavelistCheck","Default Suite","Wed Oct 23 18:46:57 EEST 2024","passed","Wed Oct 23 18:46:59 EEST 2024","Testing","Project Testing Automation (2)","Testing","leavelistCheck"
+"","858","logout","Default Suite","Wed Oct 23 18:47:04 EEST 2024","passed","Wed Oct 23 18:47:05 EEST 2024","Testing","Project Testing Automation (2)","Testing","logout"
+"","667","performanceCheck","Default Suite","Wed Oct 23 18:46:57 EEST 2024","passed","Wed Oct 23 18:46:57 EEST 2024","Testing","Project Testing Automation (2)","Testing","performanceCheck"
+"","2767","login","Default Suite","Wed Oct 23 18:46:52 EEST 2024","passed","Wed Oct 23 18:46:55 EEST 2024","Testing","Project Testing Automation (2)","Testing","login"
+"","1594","dashboardCheck","Default Suite","Wed Oct 23 18:46:55 EEST 2024","passed","Wed Oct 23 18:46:57 EEST 2024","Testing","Project Testing Automation (2)","Testing","dashboardCheck"
